@@ -2,6 +2,7 @@
 In this project, we work with a data set containing the top 1,000 questions users posted to AskReddit in 2015 using Regular expressions in Python.
 
 About dataset:
+
 Reddit is a content and community website where users can submit links, text posts, and other types of content to groups of people with similar interests. These groups are called subreddits, and each one specializes in a particular topic.
 For example, AskReddit is a popular subreddit where you can pose questions to the entire Reddit community. Users answer the questions by commenting on them. 
 
