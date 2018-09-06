@@ -16,6 +16,10 @@ Our data set contains the top 1,000 questions users posted to AskReddit in 2015.
 
 Note: The coding was done on Dataquest's learning platform and later downloaded into a python file where all the pieces of code have been consolidated. So, Each piece of code may have to be run separately for it to execute properly.
 
+Files in the repository:
+-> askreddit_2015.csv - File containing the dataset used in the project.
+-> Regular Expressions (AskReddit).py - Python file containing all the pieces of code written.
+
 
 Module imported: re
 Language Used: Python
