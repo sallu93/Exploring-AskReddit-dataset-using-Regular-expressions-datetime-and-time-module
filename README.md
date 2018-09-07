@@ -1,5 +1,5 @@
-# Exploring-Reddit-dataset-using-Regular-expressions
-In this project, we work with a data set containing the top 1,000 questions users posted to AskReddit in 2015 using Regular expressions in Python.
+# Exploring AskReddit dataset using Regular expressions, datetime and time module
+In this project, we explore a data set containing the top 1,000 questions users posted to AskReddit in 2015 using Regular expressions, datetime module and time module in Python.
 
 About dataset:
 
@@ -18,13 +18,28 @@ Files in the repository:
 
 -> askreddit_2015.csv - File containing the dataset used in the project.
 
--> Regular Expressions (AskReddit).py - Python file containing all the pieces of code written.
+-> Regular Expressions (AskReddit).py - Python file containing all the pieces of code written that used Regular expressions concepts from re module.
+
+-> .py - Python file containing all the pieces of code written that used time and datetime modules to manipulate time and date data in the dataset.
 
 
-Note: The coding was done on Dataquest's learning platform and later downloaded into a python file where all the pieces of code have been consolidated. So, Each piece of code may have to be run separately for it to execute properly.
+Note: 
+
+-> The coding was done on Dataquest's learning platform and later downloaded into a python file where all the pieces of code have been consolidated. So, Each piece of code may have to be run separately for it to execute properly.
+
+-> The beginning of the files containing code may contain code that was used to learn and reinforce simple concepts used for the analysis.
 
 
-Module imported: re
+
+Module imported: 
+
+-> re
+
+-> datetime
+
+-> time
+
+-> csv
 
 Language Used: Python
 
