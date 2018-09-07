@@ -20,7 +20,7 @@ Files in the repository:
 
 -> Regular Expressions (AskReddit).py - Python file containing all the pieces of code written that used Regular expressions concepts from re module.
 
--> .py - Python file containing all the pieces of code written that used time and datetime modules to manipulate time and date data in the dataset.
+-> Dates.py - Python file containing all the pieces of code written that used time and datetime modules to manipulate time and date data in the dataset.
 
 
 Note: 
