@@ -42,6 +42,8 @@ Our data set contains the top 1,000 questions users posted to AskReddit in 2015.
 
 - csv
 
-- Language Used: Python.
+### Language Used: 
+
+Python
 
 
