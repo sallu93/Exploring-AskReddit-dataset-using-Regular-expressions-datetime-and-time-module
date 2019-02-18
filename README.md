@@ -25,7 +25,7 @@ Our data set contains the top 1,000 questions users posted to AskReddit in 2015.
 
 ### Note: 
 
-- The coding was done on Dataquest's learning platform and later downloaded into a python file where all the pieces of code have been consolidated. So, Each piece of code may have to be run separately for it to execute properly.
+- The coding was done on Dataquest's learning platform and later downloaded into a python file where all the pieces of code have been consolidated. So, each piece of code may have to be run separately for it to execute properly.
 
 - The beginning of the files containing code may contain code that was used to learn and reinforce simple concepts used for the analysis.
 
